@@ -9,9 +9,9 @@ You can view [my LinkedIn profile here!](https://www.linkedin.com/in/russell-dil
 
   I am currently on a team of udnergraduates at West Virginia University who are automating lab experiments using PyLabLib. We are manipulating lab equipment to save time meticulously setting up anything that can respond to an input signal from a Data Acquisition (DAQ) Board.
 
-### FreeCodeCamp Data Analyst Certification
+### Interest in Quantum Software Engineering
 
-  Working with [FreeCodeCamp](https://www.freecodecamp.org/), I am working to get my [Data Analysis with Python certification](https://www.freecodecamp.org/learn/data-analysis-with-python/). After completing this course I will be able to effectively clean, analyze, and manipulate databases, read CSV files, save data as CSV files, and much more common data analytics processes.
+   Having taken a quantum computing course in the spring semester of 2025, I have taken a large interest in quantum computing. I am currently reading literature and publications on quantum computing. I am also studying up on quantum algorithms that have shown quantum supremacy and the mathematical backing to them.
 
   ## Future Projects
 
