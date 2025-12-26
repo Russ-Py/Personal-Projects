@@ -1,7 +1,7 @@
 # About this repository
 
    This is my personal repository for personal projects that I complete to showcase my professional capabilities! I will also have my certifications listed on my LinkedIn page.
-You can view [my LinkedIn profile here!](https://www.linkedin.com/in/russell-dillon-67b65129b/) For a brief overview, I will list in this file some of my current projects as well as a list of all projects that I have done in the past. To organize my projects, each project that I have completed or am currently working on will have its own folder. Inside each folder will be any code I write corresponding to that project and folder containing other resources like research papers relevant to the project.
+You can view [my LinkedIn profile here!](https://www.linkedin.com/in/russell-dillon-67b65129b/) For a brief overview, I will list in this file some of my current projects as well as a list of all projects that I have done in the past. To organize my projects, each project that I have completed or am currently working on will have its own folder. Inside each folder will be any code I write corresponding to that project and folder, containing other resources like research papers relevant to the project.
 
 ## Current Projects
 
