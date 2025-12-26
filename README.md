@@ -22,7 +22,7 @@ You can view [my LinkedIn profile here!](https://www.linkedin.com/in/russell-dil
 
 ## Contact Information
 
-The most reliable way to get a hold of me is by phone. I will also respond to emails within two days.
+The most reliable way to get a hold of me is by phone. I will normally respond to emails within one day.
 
 Phone: 304-650-2271
 
