@@ -11,6 +11,12 @@ Phone: 304-650-2271
 
 Email: rad00019@mix.wvu.edu
 
+## Jobs and Positions I Have Held
+
+WVU Quantum Technology Club President - August 2025 - Present
+
+Student Researcher For First2 - August 2025 - Present
+
 ## Current Projects
 
 ### Quantum Software Engineering
@@ -28,9 +34,8 @@ Email: rad00019@mix.wvu.edu
 
 ### Game Designing
 
-   I am currently creating a platformer in my spare time! In the folder labelled "Platformer Game", you can find a link to a Google Drive, download the entire build, and run it for yourself! I am having a lot of fun creating this game. The point of the game is that it is a 2-dimensional rage platformer. It is meant to be difficult and take a long time to finish. All assets in the game are digitally hand-crafted by me!
+   I am currently creating a platformer in my spare time! In the folder labelled "Platformer Game", you can find a link to a Google Drive where you can download and run a recent build of the game!. The point of the game is that it is a 2-dimensional rage platformer. It is meant to be difficult and take a long time to finish. All assets in the game are digitally hand-crafted by me!
    
-
 ## Contact Information (Again for convenience)
 
 The most reliable way to get a hold of me is by phone; texting me to schedule a call is most efficient. I also respond to emails within 24 hrs.
