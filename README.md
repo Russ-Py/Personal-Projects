@@ -15,7 +15,9 @@ Email: rad00019@mix.wvu.edu
 
 WVU Quantum Technology Club President - August 2025 - Present
 
-Student Researcher For First2 - August 2025 - Present
+Student Researcher For First2 - September 2025 - Present
+
+World of Wings Student Worker - December 2023 - September 2025
 
 ## Current Projects
 
