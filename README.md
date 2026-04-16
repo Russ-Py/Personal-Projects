@@ -28,7 +28,7 @@ Email: rad00019@mix.wvu.edu
 
 ### Game Designing
 
-   I am currently creating a platformer in my spare time! In the folder labelled "Platformer Game", you can download the entire build and run it for yourself if you are interested! I am having a lot of fun creating this game. The point of the game is that it is a 2-dimensional rage platformer. It is meant to be difficult and take a long time to finish. All assets in the game are digitally hand-crafted by me!
+   I am currently creating a platformer in my spare time! In the folder labelled "Platformer Game", you can find a link to a Google Drive, download the entire build, and run it for yourself! I am having a lot of fun creating this game. The point of the game is that it is a 2-dimensional rage platformer. It is meant to be difficult and take a long time to finish. All assets in the game are digitally hand-crafted by me!
    
 
 ## Contact Information (Again for convenience)
