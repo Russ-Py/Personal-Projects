@@ -35,7 +35,7 @@ World of Wings Student Worker - December 2023 - September 2025
 
 ### Mathematical Analysis of Grover's Algorithm
 
-   I am currently studying the mathematics that supports quantum computing. I am researching the role group theory plays in the Pauli and Clifford groups of matrices used in quantum algorithms. This research is the center of my Mathematics capstone, for which I presented my findings on April 27th, 2026, at WVU's School of Mathematical and Data Sciences Symposium.
+   I have studied the mathematics that underlies Grover's brute-force search algorithm. I also researched the role group theory plays in the Pauli and Clifford groups of matrices used in quantum algorithms. This research was the center of my Mathematics capstone, for which I presented my findings on April 27th, 2026, at WVU's School of Mathematical and Data Sciences Symposium.
 
 ### Cloning of Encrypted Quantum States
 
