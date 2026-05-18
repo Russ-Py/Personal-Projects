@@ -26,21 +26,24 @@ World of Wings Student Worker - December 2023 - September 2025
    Having taken a quantum computing course in the spring 2025 semester, I have taken a large interest in quantum computing. I am currently reading literature and publications on quantum computing, studying algorithms that have demonstrated quantum supremacy over their classical counterparts. 
    Simulating quantum algorithms is another interest of mine. I have written a program to simulate Grover's algorithm for a variable number of qubits, as determined by the user of the program. It can be found in the "Qiskit" Folder.
 
-### Mathematical Analysis of Quantum Computing
-
-   I am currently studying the mathematics that supports quantum computing. I am researching the role group theory plays in the Pauli and Clifford groups of matrices used in quantum algorithms. This research is the center of my Mathematics capstone, for which I will present my findings on April 27th, 2026, at WVU's School of Mathematical and Data Sciences Symposium.
-
-### Cloning of Encrypted Quantum States
-
-   It has been shown that encrypted quantum states can be cloned. This is essentially an extension of quantum state teleportation, where you entangle a Signal qubit with a Bell state, and other signal qubits that you can distribute to multiple locations. Upon decryption of one of these pairs, the quantum state from the original signal qubit is teleported, and the decryption key is destroyed. I am currently analyzing this phenomenon and will simulate it in Qiskit for my senior physics capstone.
 
 ### Game Designing
 
-   I am currently creating a platformer in my spare time! I am coding in Unity, using C# to program game mechanics. In the folder labelled "Platformer Game", you can find a link to a Google Drive where you can download and run a recent build of the game! The point of the game is that it is a 2-dimensional rage platformer. It is meant to be challenging and test your patience! All assets in the game are digitally hand-crafted by me.
-   
+   I am currently creating a platformer in my spare time! I am coding in Unity, using C# to program game mechanics. In the "Platformer Game" folder, you can find a link to Google Drive where you can download and run a recent build of the game! The point of the game is that it is a 2-dimensional rage platformer. It is meant to be challenging and test your patience! All assets in the game are digitally hand-crafted by me.
+
+## Past Projects
+
+### Mathematical Analysis of Grover's Algorithm
+
+   I am currently studying the mathematics that supports quantum computing. I am researching the role group theory plays in the Pauli and Clifford groups of matrices used in quantum algorithms. This research is the center of my Mathematics capstone, for which I presented my findings on April 27th, 2026, at WVU's School of Mathematical and Data Sciences Symposium.
+
+### Cloning of Encrypted Quantum States
+
+   It has been shown that encrypted quantum states can be cloned. This is essentially an extension of quantum state teleportation, where you entangle a Signal qubit with a Bell state, and other signal qubits that you can distribute to multiple locations. Upon decryption of one of these pairs, the quantum state from the original signal qubit is teleported, and the decryption key is destroyed. I simulated this phenomenon using Qiskit in a Google Colab notebook.
+
 ## Contact Information (Again for convenience)
 
-The most reliable way to get a hold of me is by phone; texting me to schedule a call is most efficient. I also respond to emails within 24 hrs.
+The most reliable way to reach me is by phone. Texting to schedule a call works well. I also respond to emails within 24 hrs.
 
 Phone: 304-650-2271
 
