@@ -10,4 +10,4 @@ Included in the folder for this project is the Jupyter notebook for the simulati
 
 It has been shown that one can entangle a qubit, A, with a set of qubits, each comprising one half of a Bell pair. This is referred to as "encrypted cloning" and does not violate the no-cloning theorem, as the information in qubit A's wavefunction is only retrievable from one qubit. I simulated this process and wrote up a paper for my physics capstone. 
 
-In the folder for this project, you will find the Jupyter notebook for this algorithm, the paper I wrote, and all diagrams I created to illustrate this phenomenon.
+In the folder for this project, you will find  the paper I wrote and all diagrams I created to illustrate this phenomenon.
