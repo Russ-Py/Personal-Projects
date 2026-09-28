@@ -9,13 +9,13 @@ The most reliable way to get a hold of me is by phone. I also respond to emails 
 
 Phone: 304-650-2271
 
-Email: rad00019@mix.wvu.edu
+Email: Russadillon@gmail.com
 
 ## Jobs and Positions I Have Held
 
-WVU Quantum Technology Club President - August 2025 - Present
+WVU Quantum Technology Club President - August 2025 - May 2026
 
-Student Researcher For First2 - September 2025 - Present
+Student Researcher For First2 - September 2025 - May 2026
 
 World of Wings Student Worker - December 2023 - September 2025
 
